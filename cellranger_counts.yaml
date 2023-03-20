@@ -1,0 +1,4 @@
+SOURCE: /data/gsl/bsl/vshanka/vshanka_tsc_scrna/FASTQS/TSCscRNA/outs/fastq_path/DF_scSeq
+DEST: /data/gsl/bsl/vshanka/vshanka_tsc_scrna/Counts
+EXT: "_001.fastq.gz"
+INDEX_REF: /data/databases/m_mus/10X/refdata-gex-mm10-2020-A
